@@ -1,0 +1,3 @@
+// Exercise 
+// 1. Create an Empty array called changeArray and a function called removeElement which sets the index argument of the array to the last element in the array and remove the last index from that function with the pop method 
+// 2. Create a function called test which pushes 1 2 3 4 into changeArray and remove the element 2 from the array when the contract is called.

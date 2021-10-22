@@ -1,0 +1,6 @@
+// Exercises with Strings:
+    
+ 1. create a string called favoriteColor andset string to blue 
+ 2. create a function which returns the string literal of favoriteColor
+ 3. create a function which changes the favoriteColor string literal from blue to your favorite color.
+ 4. create a function which can return how many characters there are in the string favorite color 

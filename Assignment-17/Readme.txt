@@ -1,0 +1,2 @@
+1. Fallback function cannot have name, does not take any inputs, does not return any outputs, and must be declare as external
+2. It is used when When you call functions that does not exist - or send ether to a contract by send, transfer or call 

@@ -1,0 +1,6 @@
+// Exercise
+// 1. create an enum shirtColor and set it to the options of either RED or WHITE or BLUE. 
+// 3. create a data of shirtColor called choice and don't initiate the value and defaultChoice which is a constant set to the color BLUE.
+// 4. create a function called setWhite which changes the shirt color  to white
+// 5. create a function getChoice which returns the current choice of shirtColor
+// 6. create a function getDefaultChoice which returns the default choice of shirtColor

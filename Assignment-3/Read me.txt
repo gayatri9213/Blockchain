@@ -1,0 +1,5 @@
+1. initialize 3 state variables a, b, f and each variable the following: a = 300, b =12,and f = 47.
+2. a function called finalize that is public and viewable which returns a local variable d 
+3. initialize d to 23 
+4. if (a > b && b < f) then return [(d*=d)-b] else return d
+

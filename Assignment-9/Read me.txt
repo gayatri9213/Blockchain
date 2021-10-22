@@ -1,0 +1,4 @@
+//Exercise
+// 0. Create a struct called Movie and give it the string properties: title and diretor.
+// 1. Create a map called movie which takes a uint as a key and Movie as a value .
+// 2. create a function called addMovie which takes three inputs movie id, title and director. 

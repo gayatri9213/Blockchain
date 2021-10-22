@@ -1,0 +1,6 @@
+// Looping Practice: 
+
+1.contract of myLoopingPracticeContract.
+2.list that ranges from 1 to 20 called longList and create another list called numbersList of the following numbers: 1, 4, 34, 56
+4.function that loops through numbersList and returns a true value if the number that the user inputs exists in the list otherwise   it should return false 
+5.a function and count how many even numbers there are in the long list
